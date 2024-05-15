@@ -1,1 +1,1 @@
-This file contains all the Python Codes practiced and solved till date
+This folder contains all the Python Codes practiced and solved till date
